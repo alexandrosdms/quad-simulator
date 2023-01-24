@@ -13,7 +13,7 @@ This repository contains all material related to the first course of the Robotic
 |--------------------------|:-------------|----------------------------------------------------------:|
 |  #1                      |      100%    |     [Assignment #1](https://youtu.be/sDy55eTPc4w)         |
 |  #2                      |      100%    |     [Assignment #2](https://youtu.be/CD03d4suD8A)         |
-|  #2                      |      100%    |     [Assignment #3](https://youtu.be/-aShcUIidIQ)         |
+|  #3                      |      100%    |     [Assignment #3](https://youtu.be/-aShcUIidIQ)         |
 
 ## Course Information
 Visit the [Course Page](https://www.coursera.org/learn/robotics-flight/home/info) for more information.
